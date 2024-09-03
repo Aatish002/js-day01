@@ -1,0 +1,27 @@
+ul li span:hover{
+    background: #edeef0;
+    padding: auto;
+    margin: auto;
+}
+
+.main{
+    text-align: center;
+    padding-top: 100px;
+    }
+    h1{
+        font-family: cursive;
+        text-decoration: underline;
+    }
+    .list{
+        padding: 10px 20px;
+    }
+    
+    .btn{
+        padding: 10px;
+    }
+    
+    .list-{
+        margin: 20px;
+    }  
+    
+
